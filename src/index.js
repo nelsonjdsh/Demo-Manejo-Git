@@ -1,6 +1,6 @@
-function Hola() {
+function Adios() {
     return {
-        message: 'Hola!'
+        message: 'Adios!'
     }
 }
 
